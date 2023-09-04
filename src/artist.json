@@ -1,0 +1,82 @@
+{
+    "name": "ENFALOT",
+    "albumCover": "/images/albumCovers/album-cover.jpg",
+    "releaseYear": "2019",
+    "tracks": [
+        {   
+            "id": 1,
+            "name": "Ahun Tayesh",
+            "path": "/songs/Ahun Tayesh .mp3"
+        },
+        {
+            "id": 2,
+            "name": "Behager New",
+            "path": "/songs/Behager New .mp3"
+        },
+        {
+            "id": 3,
+            "name": "Bso",
+            "path": "/songs/Bso .mp3"
+        },
+        {
+            "id": 4,
+            "name": "Endambesa",
+            "path": "/songs/Endambesa .mp3"
+        },
+        {
+            "id": 5,
+            "name": "Esuan Yaye",
+            "path": "/songs/Esuan Yaye .mp3"
+        },
+        {
+            "id": 6,
+            "name": "Giltu Smign",
+            "path": "/songs/Giltu Smign .mp3"
+        },
+        {
+            "id": 7,
+            "name": "Guadegna",
+            "path": "/songs/Guadegna .mp3"
+        },
+        {
+            "id": 8,
+            "name": "Kawuyaye",
+            "path": "/songs/Kawuyaye .mp3"
+        },
+        {
+            "id": 9,
+            "name": "Leka Endezih New",
+            "path": "/songs/Leka Endezih New .mp3"
+        },
+        {
+            "id": 10,
+            "name": "Mndn New Zmtash",
+            "path": "/songs/Mndn New Zmtash .mp3"
+        },
+        {
+            "id": 11,
+            "name": "Sebat Arigew Nebsuan",
+            "path": "/songs/Sebat Arigew Nebsuan .mp3"
+        },
+        {
+            "id": 12,
+            "name": "Tewubesh Sayshma",
+            "path": "/songs/Tewubesh Sayshma .mp3"
+        },
+        {
+            "id": 13,
+            "name": "Wena New",
+            "path": "/songs/Wena New .mp3"
+        },
+        {
+            "id": 14,
+            "name": "Wuha Ena Zeyt",
+            "path": "/songs/Wuha Ena Zeyt .mp3"
+        },
+        {
+            "id": 15,
+            "name": "Ye Ethiopia Amlak",
+            "path": "/songs/Ye Ethiopia Amlak .mp3"
+        }
+    ]
+}
